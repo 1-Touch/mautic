@@ -100,7 +100,7 @@ class DashboardSubscriber extends MainDashboardSubscriber
 
             if (!$event->isCached()) {
                 $event->setTemplateData([
-                    'chartType'   => 'line',
+                    'chartType'   => 'pie',
                     'chartHeight' => $widget->getHeight() - 80,
                     'chartData'   => $this->leadModel->getLeadsLineChartData(
                         $params['timeUnit'],
