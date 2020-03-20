@@ -1,0 +1,26 @@
+[
+    {
+      "itemId": 13807,
+      "price": 29,
+      "product": "Levovo",
+      "category": "Cell Phones",
+      "image": "https://1touch-dev.com/products/levovo.jpg",
+      "url": "http://domain.tld/link-to-item"
+    },
+    {
+      "itemId": 13808,
+      "price": 39,
+      "product": "LG",
+      "category": "Cell Phones",
+      "image": "https://1touch-dev.com/products/lg.jpg",
+      "url": "http://domain.tld/link-to-item"
+    },
+    {
+      "itemId": 13809,
+      "price": 30,
+      "product": "Nokia",
+      "category": "Cell Phones",
+      "image": "https://1touch-dev.com/products/mobile.jpg",
+      "url": "http://domain.tld/link-to-item"
+    }
+  ]
